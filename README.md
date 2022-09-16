@@ -1,2 +1,2 @@
-# -boba-denizcilik
+# boba-denizcilik
 ship management company
