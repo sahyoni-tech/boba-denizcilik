@@ -82,7 +82,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #14151c;
+  background: #5B98BD;
 }
 
 #header.header-transparent {
@@ -90,7 +90,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: #14151c;
+  background: #5B98BD;
 }
 
 #header .logo h1 {
@@ -1568,7 +1568,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #14151c;
+  background: #5B98BD;
   color: #fff;
   font-size: 14px;
   text-align: center;
