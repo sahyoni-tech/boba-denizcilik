@@ -1370,11 +1370,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #1f75a1;
+  color: black;
   float: left;
   width: 44px;
   height: 44px;
-  background: #ffecde;
+  background: #5B98BD;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1623,9 +1623,4 @@ section {
 
 #footer .credits {
   font-size: 13px;
-}
-@media screen and (max-width: 768px) {
-  #footer {
-  background: #5B98BD;
-  }
 }
