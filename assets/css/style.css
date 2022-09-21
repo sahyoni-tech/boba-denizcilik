@@ -161,7 +161,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  background: #1434A4;
+  background: #1f75a1;
 }
 
 .navbar .dropdown ul {
@@ -406,7 +406,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #1434A4;
+  background: rgb(42, 99, 115);
   color: #fff;
   text-decoration: none;
 }
@@ -1568,7 +1568,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #006DFF;
+  background: #5B98BD;
   color: #fff;
   font-size: 14px;
   text-align: center;
